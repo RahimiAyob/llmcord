@@ -6,6 +6,7 @@
 
 !*.md
 !*.py
+TTS.py
 
 !Dockerfile
 !config-example.yaml
